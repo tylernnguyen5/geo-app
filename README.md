@@ -8,10 +8,10 @@ You can try it out [here](https://geo-app-d1f15.web.app/).
 
 ## Screenshots
 
-![](screenshots/Screenshot_1.png)
-![](screenshots/Screenshot_2.png)
 ![](screenshots/Screenshot_3.png)
 ![](screenshots/Screenshot_4.png)
+![](screenshots/Screenshot_6.png)
+![](screenshots/Screenshot_7.png)
 
 ## Dependencies 
 
