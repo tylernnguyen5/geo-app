@@ -4,6 +4,8 @@ Hi, this is an application I created so that users can send comments or messages
 
 The user will signup with an email, password and alias to start with. Then they will have access to a map where they can find markers of other users. Clicking on these markers would take them to a user's wall with all the comments/messages displayed from all the other users. 
 
+## Live Demo
+
 You can try it out [here](https://geo-app-d1f15.web.app/).
 
 ## Screenshots
